@@ -103,7 +103,7 @@ li{
    transition: color 0.2s ease-in-out;
 }
    /*hover and active*/
-.logo:hover .logo-text{
+.logo:hover .logo__text{
    color: var(--accent-color);
 }
 .logo:active{
@@ -293,8 +293,32 @@ li{
    opacity: 0.6;
 }
 /*SITE FOOTER*/
+.site-footer {
+   padding: 24px 0px;
+   background-color: var(--bg-footer);
 
-
+}
+.site-footer__container {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.site-footer__logo-text {
+   color: var(--white-color);
+}
+   /*hover and active*/
+.site-footer__logo:active  .site-footer__logo-text{
+   color: var(--white-color);
+   opacity: 0.6;
+}
+.site-footer__sitenav-link {
+   color: var(--white-color);
+}
+   /*hover and active*/
+.site-footer__sitenav-link:active {
+   color: var(--white-color);
+   opacity: 0.6;
+}
 
 /*MEDIA QUERY*/
 
