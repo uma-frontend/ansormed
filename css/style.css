@@ -1,7 +1,8 @@
 /* GLOBAL STYLES */
    /*Custom property*/
 :root{
-   --text-font: sans-serif;/* - */
+   --text-font: "Open Sans", sans-serif;/* - */
+   --other-font: "Open Sans Condensed", sans-serif;
    --accent-color: #000;
    --main-text-color: #000;
    --bg-color: #fff;

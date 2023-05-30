@@ -24,31 +24,35 @@
 - 4K: 2560px
 
 #### Colors + var
-- Background Color
-- Color
-- color 1
-- color 2
-- color 3
-- color 4
+- Background Color #fff
+- color #ffffff
+- color #222222
+- color #DE2E54
+- color #444444
+- color #0EB4C1
+- color #000000
 
 #### Body Copy + var
-- Font Family:
-- Font size:
-- Font Weight:
+- Font Family: [Open Sans]
+- Font size: 16px
+- Font Weight: 400
 
 #### Font
-- Family: [Lexend Deca]
-- Weights: 400
-
-- Family: [Big Shoulders Display]
+- Family: [Open Sans Condensed]
 - Weights: 700
+
+- Family: [Open Sans]
+- Weights: 400, 600, 700
 
 
 #### Container
-- max-width:
-- padding:
+- max-width: 1100px
+- padding: 15px
 
 #### SECTIONS
 - SITE HEADER
 - MAIN SECTION
+- SITE HERO
+- SITE SERVICES
+- SITE CTA
 - SITE FOOTER
