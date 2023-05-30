@@ -259,9 +259,39 @@ li{
 }
 
    /*SITE CTA*/
-
-
-
+.cta {
+   background-color: var(--other-bg-color);
+   padding: 64px 0px;
+}
+.cta__container {
+   text-align: center;
+}
+.cta__heading {
+   font-family: var(--other-font);
+   font-weight: 700;
+   font-size: 36px;
+   line-height: 1.2;
+   color: var(--white-color);
+   margin: 0px 0px 40px 0px;
+}
+.cta__btn {
+   border-color: var(--white-color);
+   transition: all 0.2s linear;
+}
+.cta__btn:not(:last-child){
+   margin: 0px 40px 0px 0px;
+}
+   /*hover and active*/
+.cta__btn:hover{
+   background-color: var(--accent-color);
+   border-color: transparent;
+}
+.cta__btn:active{
+   background-color: var(--accent-color);
+   color: var(--white-color);
+   border-color: transparent;
+   opacity: 0.6;
+}
 /*SITE FOOTER*/
 
 
