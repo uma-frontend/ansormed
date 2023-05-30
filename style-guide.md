@@ -37,7 +37,7 @@
 - Font size: 16px
 - Font Weight: 400
 
-#### Font 
+#### Font
 - Family: [Open Sans Condensed]
 - Weights: 700
 
@@ -46,8 +46,8 @@
 
 
 #### Container
-- max-width: 1100px
-- padding: 15px
+- max-width: 1160px
+- padding: 30px
 
 #### SECTIONS
 - SITE HEADER
