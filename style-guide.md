@@ -37,7 +37,7 @@
 - Font size: 16px
 - Font Weight: 400
 
-#### Font
+#### Font 
 - Family: [Open Sans Condensed]
 - Weights: 700
 
